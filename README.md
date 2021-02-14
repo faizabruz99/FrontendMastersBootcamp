@@ -4,7 +4,7 @@ Use for reference https://frontendmasters.github.io/bootcamp/html, https://enter
 HTML, CSS n javascript: the basics of web development (frontend)!
 
 15th Feb 21 (Sun) <br>
-https://internetfundamentals.com/watch/
+https://internetfundamentals.com/watch/ <br>
 The internet fundamentals course (free) by FrontendMasters (Jen Kramer) is a prerequisite for the bootcamp; it contains:
 * concepts of client-server communication, protocols, web hosting, domain names, etc. 
 * setting up a code editor (VSCode)
