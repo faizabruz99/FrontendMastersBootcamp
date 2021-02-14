@@ -1,3 +1,3 @@
 # FrontendMastersBootcamp
 
-HTML, CSS n javascript: the basics of frontend development!
+HTML, CSS n javascript: the basics of web development (frontend!
