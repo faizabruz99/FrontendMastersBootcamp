@@ -9,3 +9,5 @@ The internet fundamentals course (free) by FrontendMasters (Jen Kramer) is a pre
 * concepts of client-server communication, protocols, web hosting, domain names, etc. 
 * setting up a code editor (VSCode)
 * filepath concepts and exercises. 
+
+<h3> need to update readme (with details) in each "day" repositories </h3>
