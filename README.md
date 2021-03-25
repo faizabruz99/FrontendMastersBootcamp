@@ -10,4 +10,4 @@ The internet fundamentals course (free) by FrontendMasters (Jen Kramer) is a pre
 * setting up a code editor (VSCode)
 * filepath concepts and exercises. 
 
-<h3> need to update readme (with details) in each "day" repositories </h3>
+<h3> need to update readme (with details) in each <q>day</q> repositories </h3>
